@@ -1,4 +1,4 @@
-Sytème de recommandation de films :  
+Système de recommandation de films :  
 
 - Fichier .pdf indiquant les consignes du projet : Projet 2 - Système de recommandation de films ( Pour Lille ).pdf
 
