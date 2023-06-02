@@ -20,4 +20,4 @@ par Julien Moquet, Mathias Nieuwjaer, Julien Mahiette et Nicolas Isnardy / mai 2
 
 - Fichier .txt comportant les versions des modules à importer : requirements.txt 
 
-- Fichier .pdf comportant la présentation : Présentation.pdf
+- Fichier .pdf comportant la présentation Keynote : Présentation.pdf
