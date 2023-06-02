@@ -3,7 +3,7 @@
 - Lien vers l'application : https://isnardynicolas-projects-projet-2script-ml-streamlit-yd9xgs.streamlit.app/
 
 
-par Julien Moquet, Elizabeth Landry, Julien Mahiette et Nicolas Isnardy / mars 2023 
+par Julien Moquet, Elizabeth Landry, Julien Mahiette et Nicolas Isnardy / avril 2023 
 
 ### Technologies et langages utilisés : 
 - Jointures, filtrage, nettoyage des données, dataviz (Python, Pandas, Matplotlib, Seaborn)
