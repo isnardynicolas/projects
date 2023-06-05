@@ -1,9 +1,6 @@
 ## PROJET PÉDAGOGIQUE EN GROUPE RÉALISÉ DANS LE CADRE DE LA FORMATION AU SEIN DE LA WILD CODE SCHOOL : 
 #### Livraison et présentation d’un dashboard pouvant être mis à jour  (4 axes : ventes, finance, logistique et RH) pour une entreprise de modélisation :
-
-par Julien Moquet, Mathias Nweujaer et Nicolas Isnardy / mars 2023 
-
-### Technologies et langages utilisés : 
+### Technologies, logiciels et langages utilisés : 
 - Requêtage SQL (MySQLWorkbench, PowerQuery)
 - Création d’un dashboard (PowerBI Desktop)
 
@@ -15,3 +12,8 @@ par Julien Moquet, Mathias Nweujaer et Nicolas Isnardy / mars 2023
 - Script SQL (partie ventes par Nicolas Isnardy) : script.sql 
 
 - Fichier .pdf donnant un aperçu du dashboard PowerBI : Projet1_final_apercu.pdf
+
+
+-------------------------------------------
+par Nicolas Isnardy, Julien Moquet et Mathias Nweujaer / mars 2023
+
