@@ -1,5 +1,5 @@
 ## PROJET PÉDAGOGIQUE EN GROUPE RÉALISÉ DANS LE CADRE DE LA FORMATION AU SEIN DE LA WILD CODE SCHOOL : 
-#### Création d'un moteur de recommandations de films basé sur les databases IMDB pour un cinéma
+#### Création d'un moteur de recommandation de films basé sur les databases IMDB pour un cinéma
 - Lien vers l'application : https://isnardynicolas-projects-projet-2script-ml-streamlit-yd9xgs.streamlit.app/
 
 ### Technologies, logiciels et langages utilisés : 
