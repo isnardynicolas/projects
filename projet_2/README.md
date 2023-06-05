@@ -19,4 +19,4 @@
 - Fichier .txt comportant les versions des modules à importer : requirements.txt 
 
 -------------------------------------------
-par Julien Moquet, Elizabeth Landry ([@BabsLand](https://github.com/babsland)), Julien Mahiette ([@JulienMhtt](https://github.com/JulienMhtt)) et Nicolas Isnardy ([@isnardynicolas](https://github.com/isnardynicolas)) / avril 2023 
+par Julien Moquet ([@JulienMoquet](https://github.com/JulienMoquet)), Elizabeth Landry ([@BabsLand](https://github.com/babsland)), Julien Mahiette ([@JulienMhtt](https://github.com/JulienMhtt)) et Nicolas Isnardy ([@isnardynicolas](https://github.com/isnardynicolas)) / avril 2023 
