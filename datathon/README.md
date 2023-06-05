@@ -2,8 +2,6 @@
 #### Création d'un moteur de recommandations de musiques basé sur les databases spotify en 1,5jour
 - Lien vers l'application : https://isnardynicolas-projects-datathonscript-ml-streamlit-njs3ro.streamlit.app/
 
-par Julien Moquet, Mathias Nieuwjaer, Julien Mahiette et Nicolas Isnardy / mai 2023 
-
 ### Technologies et langages utilisés : 
 - Jointures, filtrage, nettoyage des données, dataviz (Python, Pandas, Matplotlib, Seaborn)
 - Machine learning (Scikit-learn)
@@ -21,3 +19,6 @@ par Julien Moquet, Mathias Nieuwjaer, Julien Mahiette et Nicolas Isnardy / mai 2
 - Fichier .txt comportant les versions des modules à importer : requirements.txt 
 
 - Fichier .pdf comportant la présentation Keynote : Présentation.pdf
+
+------------------------------------------------------
+par Julien Moquet, Mathias Nieuwjaer, Julien Mahiette et Nicolas Isnardy / mai 2023 
