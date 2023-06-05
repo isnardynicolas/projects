@@ -21,5 +21,5 @@
 - Fichier .pdf comportant la présentation Keynote : Présentation.pdf
 
 ------------------------------------------------------
-par Julien Moquet, Mathias Nieuwjaer, Julien Mahiette ([@JulienMhtt](https://github.com/JulienMhtt)) et Nicolas Isnardy ([@isnardynicolas](https://github.com/isnardynicolas)) / mai 2023 
+par Julien Moquet ([@JulienMoquet](https://github.com/JulienMoquet)), Mathias Nieuwjaer, Julien Mahiette ([@JulienMhtt](https://github.com/JulienMhtt)) et Nicolas Isnardy ([@isnardynicolas](https://github.com/isnardynicolas)) / mai 2023 
 
