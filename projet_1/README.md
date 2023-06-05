@@ -15,5 +15,5 @@
 
 
 -------------------------------------------
-par Nicolas Isnardy, Julien Moquet et Mathias Nweujaer / mars 2023
+par Nicolas Isnardy ([@isnardynicolas](https://github.com/isnardynicolas)), Julien Moquet et Mathias Nweujaer / mars 2023
 
